@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-* Deliverable 1: Preprocessing the Data for PCA <br>
-* Deliverable 2: Reducing Data Dimensions Using PCA <br>
-* Deliverable 3: Clustering Cryptocurrencies Using K-means <br>
-* Deliverable 4: Visualizing Cryptocurrencies Results <br>
+# Summary
+
+In this analysis, unsupervised machine learning was applied to cryptocurrency data.  The machine learning relied on primary component analysis (PCA).  After data preprocessing, PCA was used for reducing data dimensions.  K-means analysis was implemented for clustering, and cryptocurrencies predicted (ie learned) were identified by matching up the cluster results with cryptocurrency names.  
+
